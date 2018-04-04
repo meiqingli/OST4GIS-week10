@@ -57,4 +57,3 @@ you make the style look more similar to the screens?
 ### Extra Stretch Goal
 
 Can you recreate the blue navigation on the left side of the screens?
-
